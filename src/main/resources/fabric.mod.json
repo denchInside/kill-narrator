@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "killnarrator",
+  "version": "${version}",
+
+  "name": "KillNarrator",
+  "description": "Disables narrator entirely.",
+  "authors": [
+    "denchinside"
+  ],
+  "license": "The Unlicense",
+
+  "environment": "*",
+  "mixins": [
+    "killnarrator.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  }
+}
