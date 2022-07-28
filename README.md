@@ -1,4 +1,8 @@
-# Fabric Example Mod
+# Kill Narrator mod
+
+## Description
+
+Disables the narrator entirely.
 
 ## Depencies
 
