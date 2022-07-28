@@ -6,7 +6,7 @@ Disables the narrator entirely.
 
 ## Depencies
 
-Requires fabric modloader
+Requires fabric modloader.
 
 ## License
 
